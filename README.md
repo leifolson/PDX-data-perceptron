@@ -5,7 +5,7 @@
 0. Create a virtual environment with
 
 ```
-mkvirtualenv perception 
+mkvirtualenv perceptron
 ```
 
 1. Fork the iPython notebook from https://github.com/hanneshapke/PDX-data-perceptron.git
@@ -14,7 +14,7 @@ mkvirtualenv perception 
 ```
 pip install -r requirements.txt 
 ```
-3. Start the notebook with 
+3. Start the notebook with
 ```
 ipython notebook
 ```
