@@ -20,6 +20,6 @@ ipython notebook
 ```
 
 ### Data sets for your Preceptron
-1. AND, OR operations
+1. OR operations
 2. Iris data set from https://archive.ics.uci.edu/ml/datasets/Iris
 3. German credit card approval/fraud from https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)
